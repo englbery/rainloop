@@ -62,3 +62,5 @@ Default username: admin
 Default password: 12345
 
 Make sure to changes these asap.
+
+[Click](https://www.rainloop.net/docs/configuration/) for more information. 
