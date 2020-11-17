@@ -39,7 +39,7 @@ version: "3"
 
 services:
   rainloop:
-    image: rlltpd
+    image: englbery/rainloop
     ports:
       - "8080:80"
 ```
